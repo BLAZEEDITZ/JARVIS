@@ -19,7 +19,7 @@ import win32gui
 import win32con
 
 # Configuration
-API_KEY = "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"  # Your provided API key
+API_KEY = "Your ai api key"  # Your provided API key
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Different models for different purposes
