@@ -1,4 +1,4 @@
-🧠 Jarvis - AI Voice Assistant for Desktop
+🧠 Jarvis prototype - AI Voice Assistant for Desktop
 Jarvis is a smart, voice-controlled AI assistant for your desktop that combines natural conversation, system control, and advanced screen analysis. Designed for productivity, accessibility, and convenience, Jarvis listens to your voice, understands your screen, and acts intelligently.
 
 🎤 Voice Control
